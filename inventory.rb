@@ -1,6 +1,6 @@
 
 inventory = [
-		{:type => "Shoes", :number => 1, :count => 100}, 
+		{=> "Shoes", :number => 1, :count => 100}, 
 		{:type=> "Belts", :number=> 2, :count=> 78}, 
 		{:type=> "Socks", :number=> 3, :count=> 6},  
 		{:type=> "Glasses", :number=> 4, :count=> 42}, 
